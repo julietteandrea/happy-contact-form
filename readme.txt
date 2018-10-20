@@ -1,8 +1,6 @@
-=== Happy contact form (previously known as --> Hello Dolly) ===
-Contributors: matt and juliette
-Stable tag: 1.6
-Tested up to: 4.9
-Requires at least: 4.6
+=== Happy contact form ===
+Contributors: juliette
+version: 1.0
 
 A simple contact form that only displays your email address, Linkedin and github.
 
